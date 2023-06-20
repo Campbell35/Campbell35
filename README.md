@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Full Stack and Cloud Developer
-- 🌱 I’m currently learning Next JS
+- 🔭 I’m currently a Full Stack Developer
+- 🌱 I’m currently learning Cloud Computing
+- 👯 I’m open to collaborating on projects and always looking for opportunities to learn and grow.
   
 

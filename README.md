@@ -11,6 +11,6 @@
 
 
 
-<img src="https://github.com/Campbell35/Campbell35/assets/93555331/c9472c1f-add4-4ad1-ace4-168c9980011d" width="50px" height="30px"> <img src="https://github.com/Campbell35/Campbell35/assets/93555331/c9472c1f-add4-4ad1-ace4-168c9980011d" width="500px" height="300px">
+<img src="https://github.com/Campbell35/Campbell35/assets/93555331/c9472c1f-add4-4ad1-ace4-168c9980011d" width="100px" height="50px"> <img src="https://github.com/Campbell35/Campbell35/assets/93555331/c9472c1f-add4-4ad1-ace4-168c9980011d" width="500px" height="300px">
 
 

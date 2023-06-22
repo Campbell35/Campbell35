@@ -9,11 +9,6 @@
 
 ### Technologies I Currently Use
 
-![NextJS-Dark](https://github.com/Campbell35/Campbell35/assets/93555331/cec4c1f5-a130-4dc8-8d2a-43e46ef0c98a)
 
-![NodeJS-Dark](https://github.com/Campbell35/Campbell35/assets/93555331/243ed248-ebf8-4d19-85d0-915816de4db8)
 
-![MySQL-Dark](https://github.com/Campbell35/Campbell35/assets/93555331/b65c6857-4dc2-4e87-b5e5-01710ca51890)
-
-  
-
+![68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667](https://github.com/Campbell35/Campbell35/assets/93555331/c9472c1f-add4-4ad1-ace4-168c9980011d)
